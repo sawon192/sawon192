@@ -1,101 +1,77 @@
-<h1 align="center">Hi there, I'm Shawan 👋</h1>
-<h3 align="center">M. Shawan Biswas — Computer Science & Engineering Student</h3>
+<h1 align="center">heyy, I'm Shawan 👋</h1>
+<h3 align="center">CSE student who can debug a segfault but still forgets where he left his charger</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Interested+in+Cyber+Security+%F0%9F%94%90;Exploring+Networking+%F0%9F%8C%90;Learning+Pattern+Recognition+%F0%9F%A7%A0;Building+with+AI+%26+Linux+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=2E9EF7&center=true&vCenter=true&width=600&lines=trying+to+understand+cyber+security...;...one+stack+overflow+post+at+a+time;currently+arguing+with+a+neural+network;send+help+(or+coffee)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="380">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👋 a quick intro
 
-```yaml
-name: M. Shawan Biswas
-role: Computer Science & Engineering Student
-focus: Cyber Security · Networking · AI · System Programming
-currently_learning: [Pattern Recognition, Neural Networks, Ethical Hacking]
-fun_fact: "I debug C code with the same energy as a detective solving a crime 🕵️"
-```
+So basically — I'm a Computer Science & Engineering student, and somewhere between assignments and 2 AM "let me just try one more thing" coding sessions, I fell in love with **Cyber Security**, **Networking**, and **AI**.
 
-I'm a CSE student who genuinely enjoys getting hands-on with **Cyber Security**, **Networking**, **AI**, and **System Programming** — not just for grades, but because breaking and rebuilding things is fun. I learn best by *building*, so most of what's below came out of late-night coding sessions and academic projects that got a little out of hand (in a good way).
+I'm not going to pretend I know everything (my GitHub commit history has way too many "fix bug" commits that introduced 3 new bugs), but I genuinely enjoy figuring stuff out — even when it takes me 5 hours to fix something a senior dev would solve in 5 minutes. That's the process, right? 😅
 
-Currently deep-diving into **Cyber Security fundamentals**, **Pattern Recognition**, and **Neural Networks**, while trying to keep my Linux terminal open more than my browser. 🐧
+Right now I'm deep in **Pattern Recognition** and **Neural Networks** for my coursework, and honestly half the time I'm just trying to make the math make sense before the deadline. The other half I'm poking around Linux trying to feel like a hacker.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ what I actually work with
 
-**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,bash,opencv" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Operating Systems**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-A8B9CC?style=for-the-badge&logo=gnu&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+C and C++ taught me patience (and pain). Python is where I go when I want things to actually work on the first try. Linux is my daily driver — mostly because GUI settings menus stress me out more than the terminal does.
 
 ---
 
-### 🎯 Areas of Interest
+### 🛠 stuff I've actually built
 
-🔐 Cyber Security &nbsp;|&nbsp; 🌐 Computer Networking &nbsp;|&nbsp; 🤖 Artificial Intelligence
-🧠 Machine Learning &nbsp;|&nbsp; 🧬 Pattern Recognition &nbsp;|&nbsp; 🧮 Neural Networks
-👁️ Computer Vision &nbsp;|&nbsp; ⚙️ System Programming
+not gonna lie, half these started as class assignments and I just got too invested 👇
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🏥 **Hospital Management System** | Manages patient records, doctor info, appointments & hospital activities |
-| 📸 **University Attendance System (Face Recognition)** | Automatically records student attendance using facial recognition |
-| 🦯 **Smart Blind Stick** | Helps visually impaired users detect obstacles and move safely |
-| 📊 **K-Means Clustering** | Implemented for pattern recognition and data analysis |
-| 🧠 **Hebbian Neural Network** | Built to explore neural network learning concepts from the ground up |
-| 🔬 **Pattern Recognition Assignments** | Classification, clustering & ML tasks |
-| 🐧 **Unix System Programming** | File handling, process management, permissions & shell scripting |
-
-> 💡 *Each project taught me something new — usually the hard way, at 2 AM, fueled by tea.*
+- 🏥 **Hospital Management System** — patients, doctors, appointments, all in one place. Built it, broke it, fixed it, broke it again.
+- 📸 **Face Recognition Attendance System** — built for university so nobody can fake attendance anymore. Sorry to whoever that affects.
+- 🦯 **Smart Blind Stick** — a hardware + software project to help visually impaired people detect obstacles. Probably the project I'm proudest of.
+- 📊 **K-Means Clustering** — pattern recognition assignment that made me actually understand clustering instead of just memorizing it for the exam.
+- 🧠 **Hebbian Neural Network** — built from scratch to understand *how* neural networks learn, not just how to import a library and call it AI.
+- 🐧 **Unix System Programming** — file handling, processes, permissions, shell scripts. Lots of segfaults. Lots of learning.
 
 ---
 
-### 📚 Currently Learning
+### 🎯 things I'm into
 
-- 🔐 Cyber Security Fundamentals
-- 🛡️ Network Security
-- 🕵️ Ethical Hacking
-- 🧬 Pattern Recognition
-- 🧠 Neural Networks
-- 🌐 Advanced Networking
+`Cyber Security` `Networking` `AI / ML` `Pattern Recognition` `Neural Networks` `Computer Vision` `System Programming`
 
 ---
 
-### 🌱 Goals
+### 📖 currently learning (aka currently confused about)
 
-- [ ] Strengthen my Cyber Security skills
-- [ ] Go deeper into Networking & AI
-- [ ] Build genuinely useful software projects
-- [ ] Contribute to Open Source 🌍
-- [ ] Pursue higher studies in Computer Science 🎓
+- Cyber Security Fundamentals
+- Network Security
+- Ethical Hacking
+- Pattern Recognition
+- Neural Networks
+- Advanced Networking
 
 ---
 
-### 📫 Let's Connect
+### 🌱 where I'm trying to go
+
+- [ ] actually get good at cyber security, not just interested in it
+- [ ] understand networking deeply enough to stop googling the OSI model
+- [ ] build something people other than my professor will use
+- [ ] contribute to an open source project without panicking
+- [ ] pursue higher studies in CS
+
+---
+
+### 📬 reach out
 
 <p align="left">
   <a href="mailto:sawonbiswas110@gmail.com">
@@ -104,15 +80,10 @@ Currently deep-diving into **Cyber Security fundamentals**, **Pattern Recognitio
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shawanbiswas&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shawanbiswas&label=people%20who%20got%20curious&color=2E9EF7&style=flat" />
 </p>
 
-<p align="center"><i>"Still compiling my career, please wait..." ⌛</i></p>
+<p align="center"><sub>if my code works, don't ask me how. if it doesn't, give me 10 minutes.</sub></p>
