@@ -1,108 +1,118 @@
- Hi, I'm M. Shawan Biswas 
+<h1 align="center">Hi there, I'm Shawan 👋</h1>
+<h3 align="center">M. Shawan Biswas — Computer Science & Engineering Student</h3>
 
- Computer Science & Engineering Student
- Interested in Cyber Security and Networking
- Learning Pattern Recognition and Neural Networks
- Interested in Software Development, AI, and Linux
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Interested+in+Cyber+Security+%F0%9F%94%90;Exploring+Networking+%F0%9F%8C%90;Learning+Pattern+Recognition+%F0%9F%A7%A0;Building+with+AI+%26+Linux+%F0%9F%90%A7" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
+</p>
 
- About Me
+---
 
-I am a Computer Science and Engineering student who enjoys learning about Cyber Security, Networking, Artificial Intelligence, and System Programming.
+### 🧑‍💻 About Me
 
-I like building projects and improving my programming skills through practical work and academic assignments. I am always interested in learning new technologies and solving real-world problems using software and hardware solutions.
+```yaml
+name: M. Shawan Biswas
+role: Computer Science & Engineering Student
+focus: Cyber Security · Networking · AI · System Programming
+currently_learning: [Pattern Recognition, Neural Networks, Ethical Hacking]
+fun_fact: "I debug C code with the same energy as a detective solving a crime 🕵️"
+```
 
-Currently, I am focusing on Cyber Security, Networking, Pattern Recognition, and Neural Networks.
+I'm a CSE student who genuinely enjoys getting hands-on with **Cyber Security**, **Networking**, **AI**, and **System Programming** — not just for grades, but because breaking and rebuilding things is fun. I learn best by *building*, so most of what's below came out of late-night coding sessions and academic projects that got a little out of hand (in a good way).
 
+Currently deep-diving into **Cyber Security fundamentals**, **Pattern Recognition**, and **Neural Networks**, while trying to keep my Linux terminal open more than my browser. 🐧
 
+---
 
- Technical Skills
+### 🛠️ Tech Stack
 
-Programming Languages
+**Languages**
 
-* C
-* C++
-* Python
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Operating Systems
-* Windows
-* Linux / Unix
+**Operating Systems**
 
-Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-* Git & GitHub
-* Bash Shell
-* GCC
-* GDB
-* Makefile
-* OpenCV
+**Tools & Technologies**
 
-Areas of Interest
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A8B9CC?style=for-the-badge&logo=gnu&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-* Cyber Security
-* Computer Networking
-* Artificial Intelligence
-* Machine Learning
-* Pattern Recognition
-* Neural Networks
-* Computer Vision
-* System Programming
+---
 
+### 🎯 Areas of Interest
 
-Projects
+🔐 Cyber Security &nbsp;|&nbsp; 🌐 Computer Networking &nbsp;|&nbsp; 🤖 Artificial Intelligence
+🧠 Machine Learning &nbsp;|&nbsp; 🧬 Pattern Recognition &nbsp;|&nbsp; 🧮 Neural Networks
+👁️ Computer Vision &nbsp;|&nbsp; ⚙️ System Programming
 
-* Hospital Management System
+---
 
-A system for managing patient records, doctor information, appointments, and hospital activities.
+### 🚀 Featured Projects
 
-*University Attendance System Using Face Recognition
+| Project | Description |
+|---|---|
+| 🏥 **Hospital Management System** | Manages patient records, doctor info, appointments & hospital activities |
+| 📸 **University Attendance System (Face Recognition)** | Automatically records student attendance using facial recognition |
+| 🦯 **Smart Blind Stick** | Helps visually impaired users detect obstacles and move safely |
+| 📊 **K-Means Clustering** | Implemented for pattern recognition and data analysis |
+| 🧠 **Hebbian Neural Network** | Built to explore neural network learning concepts from the ground up |
+| 🔬 **Pattern Recognition Assignments** | Classification, clustering & ML tasks |
+| 🐧 **Unix System Programming** | File handling, process management, permissions & shell scripting |
 
-A face recognition-based attendance system that automatically records student attendance.
+> 💡 *Each project taught me something new — usually the hard way, at 2 AM, fueled by tea.*
 
-* Smart Blind Stick
+---
 
-A project designed to help visually impaired people detect obstacles and move safely.
+### 📚 Currently Learning
 
-* K-Means Clustering
+- 🔐 Cyber Security Fundamentals
+- 🛡️ Network Security
+- 🕵️ Ethical Hacking
+- 🧬 Pattern Recognition
+- 🧠 Neural Networks
+- 🌐 Advanced Networking
 
-Implemented the K-Means clustering algorithm for pattern recognition and data analysis.
+---
 
-* Hebbian Neural Network
+### 🌱 Goals
 
-Implemented a Hebbian Neural Network to understand neural network learning concepts.
+- [ ] Strengthen my Cyber Security skills
+- [ ] Go deeper into Networking & AI
+- [ ] Build genuinely useful software projects
+- [ ] Contribute to Open Source 🌍
+- [ ] Pursue higher studies in Computer Science 🎓
 
-* Pattern Recognition Assignments
+---
 
-Worked on different classification, clustering, and machine learning tasks.
+### 📫 Let's Connect
 
-* Unix System Programming
+<p align="left">
+  <a href="mailto:sawonbiswas110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Implemented programs related to file handling, process management, permissions, and shell scripting.
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shawanbiswas&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+</p>
 
-* Currently Learning
-
-* Cyber Security Fundamentals
-* Network Security
-* Ethical Hacking
-* Pattern Recognition
-* Neural Networks
-* Advanced Networking
-
-
-*Goals
-
-* Improve my Cyber Security skills
-* Learn more about Networking and AI
-* Build useful software projects
-* Contribute to Open Source projects
-* Pursue higher studies in Computer Science
-
-
-## Contact
-
-📧 Email: sawonbiswas110@gmail.com
-
-💼 LinkedIn:
-
-🌐 GitHub: 
+<p align="center"><i>"Still compiling my career, please wait..." ⌛</i></p>
